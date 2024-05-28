@@ -1,4 +1,4 @@
-# th-c-h-nh-ki-m-th-API-v-i-postman-
+# kiemthu_api_postman
 1. Giới thiệu về Postman
    Postman là một công cụ mạnh mẽ giúp các nhà phát triển tạo, kiểm thử, và quản lý các API. Với giao diện người dùng thân thiện và nhiều tính năng hữu ích, Postman cho phép bạn thực hiện các yêu cầu HTTP và xem kết quả trả về một cách dễ dàng.
 
